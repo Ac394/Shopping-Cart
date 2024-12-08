@@ -1,0 +1,26 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Wool-blend shirt",
+      "price": 13,
+      "brand": "",
+      "description": "lorem ipsum set",
+      "images": ["/jil_sander_01.avif", "/jil_sander_02.avif"],
+      "category": "men",
+      "stock": 5,
+      "new": false
+    },
+    {
+      "id": 2,
+      "title": "Wool-blend shirt",
+      "price": 13,
+      "brand": "",
+      "description": "lorem ipsum set",
+      "images": ["/jil_sander_02.avif", "/jil_sander_01.avif"],
+      "category": "women",
+      "stock": 2,
+      "new": true
+    }
+  ]
+}
